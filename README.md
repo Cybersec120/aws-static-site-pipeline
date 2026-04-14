@@ -338,7 +338,7 @@ The solution achieved what the customer needed:
 
 I built this as a cloud architect and consultant. The goal was not to deploy a website — it was to design a **delivery platform** that could be explained to a customer, handed off to an operations team, and maintained without tribal knowledge.
 
-Every decision in this project traces back to a requirement, not a preference. That is how production infrastructure should be built.
+Every decision in this project traces back to a requirement, not a preference. That is how production infrastructure should be built. Also... We have all the technology tools at our disposal... which means a persons knowledge base in fundamentals must be stronger than ever... what metric are we going to stand by.. when everyone has AI at their finger tips?
 
 ---
 
