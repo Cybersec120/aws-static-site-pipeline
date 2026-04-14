@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 ![Architecture Diagram](docs/architecture.jpg)
 A production-ready static website delivery platform on AWS using **Amazon S3**, **Amazon CloudFront**, **Terraform**, and **GitHub Actions** with OIDC federation.
 
