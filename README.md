@@ -4,14 +4,13 @@
 
 
 
-
+"A production-ready static website delivery platform on AWS using **Amazon S3**, **Amazon CloudFront**, **Terraform**, and **GitHub Actions** with OIDC federation."
 
 
 
 ![Architecture Diagram](docs/architecture.jpg)
-A production-ready static website delivery platform on AWS using **Amazon S3**, **Amazon CloudFront**, **Terraform**, and **GitHub Actions** with OIDC federation.
-
-This project was not built by starting with services. It was built by starting with a customer problem.
+This project was not built starting with services. It was built by being presented with....and facing... a problem...
+which is the beginning of... All Solutions!
 
 ---
 
