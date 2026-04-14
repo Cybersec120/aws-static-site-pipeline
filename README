@@ -1,12 +1,4 @@
-# Production Static Website Delivery on AWS
-
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20CloudFront%20%7C%20IAM%20%7C%20OAC-orange)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20OIDC-2088FF)
-![Architecture](https://img.shields.io/badge/Design-Production%20Ready-success)
-![Framework](https://img.shields.io/badge/Aligned-AWS%20Well--Architected-blue)
-![Cost](https://img.shields.io/badge/Cost-%241--3%2Fmo-brightgreen)
-
+![Architecture Diagram](docs/architecture.jpg)
 A production-ready static website delivery platform on AWS using **Amazon S3**, **Amazon CloudFront**, **Terraform**, and **GitHub Actions** with OIDC federation.
 
 This project was not built by starting with services. It was built by starting with a customer problem.
